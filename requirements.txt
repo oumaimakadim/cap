@@ -6,4 +6,8 @@ scikit-learn==1.5.1
 google-cloud==0.34.0
 google-cloud-automl==2.13.4
 google-cloud-language==2.13.4
-google.generativeai
+google-generativeai
+
+# Optional: If you need other Google Cloud libraries
+# google-cloud-storage==...
+# google-cloud-bigquery==...
