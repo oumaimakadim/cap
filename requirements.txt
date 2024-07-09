@@ -3,4 +3,6 @@ pandas==2.2.2
 plotly==5.22.0
 passlib==1.7.4
 scikit-learn==1.5.1
-streamlit_chat
+google-cloud
+google-cloud-automl
+google-cloud-language
